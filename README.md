@@ -1,55 +1,50 @@
-# Hi there, I'm Kautham Thiyagarajan!
+# 👋 Hi, I'm Kautham Thiyagarajan  
+### Backend Developer | Java & Spring Boot | Cloud & Microservices  
 
-Welcome to my GitHub! I'm a backend developer from Tamil Nadu, currently based in Bengaluru. I work at Tata Consultancy Services as a Java Developer, building scalable microservices using Spring Boot.
-
----
-
-## 🚀 About Me
-
-- Java Backend Developer with **2.5+ years** of experience  
-- Passionate about **clean architecture**, **CI/CD**, and **DevOps practices**
-- Currently exploring **cloud platforms** (Oracle Cloud, AWS) & **Kubernetes**
-- Love collaborating on real-world projects and contributing to impactful solutions
-- Founder of a free **Java learning initiative** to train college students in backend development
+I'm a **Java Developer** with over **3 years of experience** building **cloud-native, microservices-based systems** using Spring Boot and AWS.  
+I’m passionate about designing scalable backend architectures, improving performance, and mentoring teams in testing and automation.
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages:** Java 21, JavaScript, SQL
-- **Frameworks:** Spring Boot, JUnit, Cucumber (BDD), Mockito
-- **DevOps & Infra:** Docker, Docker Compose, GitHub Actions, Oracle Cloud, MySQL/PostgreSQL
-- **Tools:** IntelliJ, VS Code, Postman, Maven, Git
-
----
-
-## 🔥 Side Projects
-
-- **E-Commerce Microservices App**  
-  Spring Boot + Docker + GitHub Actions + Oracle Cloud Free Tier  
-  > Working on a full-stack MVP with infra automation
-
-- **Java EdTech Initiative**  
-  A nonprofit learning platform for college students  
-  > Teaching Java, backend basics, and real-world project building
+### 🧠 Tech Stack
+**Languages:** Java (8–21), SQL  
+**Frameworks:** Spring Boot, JUnit, Mockito, Cucumber, Karate  
+**Cloud & Infra:** AWS (Lambda, S3, RDS, EC2), Docker, Jenkins  
+**Databases:** PostgreSQL, MariaDB  
+**Version Control & Tools:** Git, Maven, IntelliJ, Postman  
 
 ---
 
-## ✨ Goals for 2025
+### 🏗️ Featured Projects
 
-- Build a personal portfolio & publish project walkthroughs
-- Migrate side project to production-ready cloud setup
-- Land a backend or platform engineer role in a product-based company
-- Continue mentoring and learning from the dev community
-
----
-
-## 📫 Let's Connect
-
-- **LinkedIn:** [kautham-thiyagarajan](https://www.linkedin.com/in/kautham-thiyagarajan/)
-- **GitHub:** [@kauthamthiyagarajan](https://github.com/kautham7473)
-- **Email:** kauthamthiyagarajan@gmail.com
+#### 🛒 [NeoCart – Microservices-based E-commerce App](https://github.com/kautham7473/Ecommerce)
+- Built Cart, Product, and User microservices using Spring Boot.  
+- Implemented CI/CD with GitHub Actions and Docker Compose.  
+- Deployed on Render with database integration.  
 
 ---
 
-Thanks for stopping by! Feel free to check out my pinned repos and leave a ⭐ if you find something useful!
+### 🏆 Achievements
+- **Star of the Month (TCS)** – Completed 3 user stories (15 pts) in 10 days, improving sprint velocity.  
+- **On the Spot Award** – Helped another squad achieve testing excellence using JUnit, Karate, and Hoverfly.  
+- **Client Appreciation** – Recognized by J.P. Morgan Chase for collaborative delivery.  
+
+---
+
+### 🌱 What I'm Learning
+- Kubernetes & container orchestration  
+- Advanced system design  
+- Cloud architecture patterns  
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/kautham-thiyagarajan)  
+- [Email](mailto:kauthamthiyagarajan@gmail.com)
+
+![Kautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kautham7473&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kautham7473&layout=compact&theme=radical)
+
+
+---
+⭐ *If you like my projects, consider giving them a star!*
